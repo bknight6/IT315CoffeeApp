@@ -62,7 +62,8 @@
       "lblCafe2": "Spiced latte",
       "imgCafe2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img2.jpg",
       "lblCafe3": "Caramel drizzle",
-      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img3.jpg"
+      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img3.jpg",
+      "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
     },
     {
       "CafeName": "Cafien",
@@ -77,7 +78,8 @@
       "lblCafe2": "Lemon latte",
       "imgCafe2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img4.jpg",
       "lblCafe3": "Choco Tiramisu",
-      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img5.jpg"
+      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img5.jpg",
+      "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
     }
   ],
   "Status": "OK"
