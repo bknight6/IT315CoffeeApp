@@ -13,7 +13,8 @@
       "lblCafePop2": "Pepperseed croissant",
       "imgCafePop2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img3.jpg",
       "lblCafePop3": "Hot Chocolate",
-      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img2.jpg"
+      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img2.jpg",
+      "CafeWebsiteAddress": "https://www.beanbarloudoun.com"
     },
     {
       "CafeName": "Lily's Chocolate & Coffee",
@@ -28,7 +29,8 @@
       "lblCafePop2": "Cheesecake",
       "imgCafePop2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img3.jpg",
       "lblCafePop3": "Berry brownie",
-      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img6.jpg"
+      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img6.jpg",
+      "CafeWebsiteAddress": "https://lilyschocolatecoffee.com/menu/"
     },
     {
       "CafeName": "Aroma Cafe",
@@ -43,7 +45,8 @@
       "lblCafePop2": "Spiced cider",
       "imgCafePop2": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img2.jpg",
       "lblCafePop3": "Matcha goddess",
-      "imgCafePop3": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img4.jpg"
+      "imgCafePop3": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img4.jpg",
+      "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
     }
   ],
   "Status": "okay"
