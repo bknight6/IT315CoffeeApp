@@ -38,14 +38,14 @@
       "CafeLocation": "Mclean, VA",
       "CafePricing": "$$",
       "CafeRating": "4.8",
-      "CafeMainImage": "https://github.com/bknight6/IT315CoffeeApp/blob/main/AromaMain.jpg",
+      "CafeMainImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/AromaMain.jpg",
       "CafeReview": "One thing that stands out is their attention to detail. They deliver high quality with consistency and speed no matter the time of day.",
       "lblCafePop1": "Chocolate lovers",
-      "imgCafePop1": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img1.jpg",
+      "imgCafePop1": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/Aroma-img1.jpg",
       "lblCafePop2": "Spiced cider",
-      "imgCafePop2": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img2.jpg",
+      "imgCafePop2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/Aroma-img2.jpg",
       "lblCafePop3": "Matcha goddess",
-      "imgCafePop3": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img4.jpg",
+      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/Aroma-img4.jpg",
       "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
     }
   ],
