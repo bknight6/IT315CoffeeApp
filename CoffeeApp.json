@@ -3,7 +3,7 @@
     {
       "CafeName": "The Bean Bar",
       "CafeDescription": "Coffee - Pastries",
-      "CafeLocation": "Leesburg,Va",
+      "CafeLocation": "Leesburg, Va",
       "CafePricing": "$",
       "CafeRating": "4.6",
       "CafeImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-Main-1.jpg",
@@ -47,6 +47,37 @@
       "lblCafe3": "Matcha goddess",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/Aroma-img4.jpg",
       "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
+    }
+,
+    {
+      "CafeName": "Chambers Coffee & Bar",
+      "CafeDescription": "Coffee",
+      "CafeLocation": "Alexandria, VA",
+      "CafePricing": "$",
+      "CafeRating": "4.2",
+      "CafeImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/tester.jpg",
+      "CafeReview": "One thing that stands out is their attention to detail. They deliver high quality with consistency and speed no matter the time of day.",
+      "lblCafe1": "Vanilla latte",
+      "imgCafe1": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/vanilla-latte.jpg",
+      "lblCafe2": "Spiced latte",
+      "imgCafe2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img2.jpg",
+      "lblCafe3": "Caramel drizzle",
+      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img3.jpg"
+    },
+    {
+      "CafeName": "Cafien",
+      "CafeDescription": "Coffee - Breakfast - Pastries",
+      "CafeLocation": "Centreville, VA",
+      "CafePricing": "$$",
+      "CafeRating": "4.7",
+      "CafeImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/CafeMain5.jpg",
+      "CafeReview": "Very nice place to get pastries and coffee. The server was very friendly and hospitable, as well as the barista answered all my questions about what she was making and even gave me a bit to try. Will be coming back.",
+      "lblCafe1": "Baked Almond",
+      "imgCafe1": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img2.jpg",
+      "lblCafe2": "Lemon latte",
+      "imgCafe2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img4.jpg",
+      "lblCafe3": "Choco Tiramisu",
+      "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img5.jpg"
     }
   ],
   "Status": "OK"
