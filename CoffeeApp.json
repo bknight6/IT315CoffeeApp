@@ -36,44 +36,14 @@
       "CafeLocation": "Mclean, VA",
       "CafePricing": "$$",
       "CafeRating": "4.8",
-      "CafeMainImage": "",
+      "CafeMainImage": "https://github.com/bknight6/IT315CoffeeApp/blob/main/AromaMain.jpg",
       "CafeReview": "One thing that stands out is their attention to detail. They deliver high quality with consistency and speed no matter the time of day.",
       "lblCafePop1": "Chocolate lovers",
-      "imgCafePop1": "",
+      "imgCafePop1": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img1.jpg",
       "lblCafePop2": "Spiced cider",
-      "imgCafePop2": "",
+      "imgCafePop2": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img2.jpg",
       "lblCafePop3": "Matcha goddess",
-      "imgCafePop3": ""
-    },
-    {
-      "CafeName": "Chambers Coffee & Bar",
-      "CafeDescription": "Coffee",
-      "CafeLocation": "Alexandria, VA",
-      "CafePricing": "$",
-      "CafeRating": "4.2",
-      "CafeMainImage": "",
-      "CafeReview": "One thing that stands out is their attention to detail. They deliver high quality with consistency and speed no matter the time of day.",
-      "lblCafePop1": "Vanilla latte",
-      "imgCafePop1": "",
-      "lblCafePop2": "Spiced latte",
-      "imgCafePop2": "",
-      "lblCafePop3": "Caramel drizzle",
-      "imgCafePop3": ""
-    },
-    {
-      "CafeName": "Cafien",
-      "CafeDescription": "Coffee - Breakfast - Pastries",
-      "CafeLocation": "Centreville, VA",
-      "CafePricing": "$$",
-      "CafeRating": "4.7",
-      "CafeMainImage": "",
-      "CafeReview": "Very nice place to get pastries and coffee. The server was very friendly and hospitable, as well as the barista answered all my questions about what she was making and even gave me a bit to try. Will be coming back.",
-      "lblCafePop1": "Baked Almond",
-      "imgCafePop1": "",
-      "lblCafePop2": "Lemon latte",
-      "imgCafePop2": "",
-      "lblCafePop3": "Choco Tiramisu",
-      "imgCafePop3": ""
+      "imgCafePop3": "https://github.com/bknight6/IT315CoffeeApp/blob/main/Aroma-img4.jpg"
     }
   ],
   "Status": "okay"
