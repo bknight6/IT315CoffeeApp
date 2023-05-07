@@ -6,14 +6,14 @@
       "CafeLocation": "Leesburg,Va",
       "CafePricing": "$",
       "CafeRating": "4.6",
-      "CafeMainImage": "",
+      "CafeMainImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-Main-1.jpg",
       "CafeReview": "Excellent menu, incredible servers, very reasonable prices. Try their Key Lime Tart! They make a pretty decent latte and offer up some of the best croissants in the area.",
       "lblCafePop1": "Vanilla latte",
-      "imgCafePop1": "",
+      "imgCafePop1": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img1.jpg",
       "lblCafePop2": "Pepperseed croissant",
-      "imgCafePop2": "",
+      "imgCafePop2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img3.jpg",
       "lblCafePop3": "Hot Chocolate",
-      "imgCafePop3": ""
+      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img2.jpg"
     },
     {
       "CafeName": "Lily's Chocolate & Coffee",
@@ -21,14 +21,14 @@
       "CafeLocation": "Fairfax, VA",
       "CafePricing": "$$",
       "CafeRating": "4.7",
-      "CafeMainImage": "",
+      "CafeMainImage": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/CafeMain-2.jpg",
       "CafeReview": "This coffee shop CRUSHES the coffee game. Great tasting beverages and amazing desserts. Top quality chocolate!",
       "lblCafePop1": "Choco latte",
-      "imgCafePop1": "",
+      "imgCafePop1": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img7.jpg",
       "lblCafePop2": "Cheesecake",
-      "imgCafePop2": "",
+      "imgCafePop2": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img3.jpg",
       "lblCafePop3": "Berry brownie",
-      "imgCafePop3": ""
+      "imgCafePop3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img6.jpg"
     },
     {
       "CafeName": "Aroma Cafe",
