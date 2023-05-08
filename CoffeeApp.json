@@ -15,6 +15,8 @@
       "lblCafe3": "Hot Chocolate",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/TBB-img2.jpg",
       "CafeWebsiteAddress": "https://www.beanbarloudoun.com"
+      "CafeLatitude": 39.087782
+      "CafeLongitude": -77.523829
     },
     {
       "CafeName": "Lily's Chocolate & Coffee",
@@ -31,6 +33,8 @@
       "lblCafe3": "Berry brownie",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe2-img6.jpg",
       "CafeWebsiteAddress": "https://lilyschocolatecoffee.com/menu/"
+      "CafeLatitude": 39.087782
+      "CafeLongitude": -77.523829
     },
     {
       "CafeName": "Aroma Cafe",
@@ -47,6 +51,8 @@
       "lblCafe3": "Matcha goddess",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/Aroma-img4.jpg",
       "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
+      "CafeLatitude": 39.087782
+      "CafeLongitude": -77.523829
     }
 ,
     {
@@ -64,6 +70,8 @@
       "lblCafe3": "Caramel drizzle",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/cafe1-img3.jpg",
       "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
+      "CafeLatitude": 39.087782
+      "CafeLongitude": -77.523829
     },
     {
       "CafeName": "Cafien",
@@ -80,6 +88,8 @@
       "lblCafe3": "Choco Tiramisu",
       "imgCafe3": "https://raw.githubusercontent.com/bknight6/IT315CoffeeApp/main/img5.jpg",
       "CafeWebsiteAddress": "https://formicasbakery.com/wp-content/uploads/2021/03/formicas-cafe-menu-03-21-first.png"
+      "CafeLatitude": 39.087782
+      "CafeLongitude": -77.523829
     }
   ],
   "Status": "OK"
